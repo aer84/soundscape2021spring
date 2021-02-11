@@ -30,4 +30,8 @@ Sounds from freesound.com
 
 457070__humanoide9000__dramatic-evil-theme-orchestra - humanoide9000 (licensed under the Attribution License) https://freesound.org/people/humanoide9000/sounds/457070/
 
+127855__martats__open-door - martats (licensed under the Attribution license) https://freesound.org/people/martats/sounds/127855/
+
 My recorded audio
+
+20th Century Fox Opening Sound - https://www.youtube.com/watch?v=zVpUuW5xCxE
