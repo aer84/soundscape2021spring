@@ -32,6 +32,18 @@ Sounds from freesound.com
 
 127855__martats__open-door - martats (licensed under the Attribution license) https://freesound.org/people/martats/sounds/127855/
 
-My recorded audio
+360590__fallbackcrush__shh - fallbackcrush (licensed under the Attribution License) https://freesound.org/people/fallbackcrush/sounds/360590/
+
+333420__jayfrosting__woo-3 - jayfrosting )licensed under the Creative Commons 0 License) https://freesound.org/people/jayfrosting/sounds/333420/
+
+Sound from YouTube
 
 20th Century Fox Opening Sound - https://www.youtube.com/watch?v=zVpUuW5xCxE
+
+My Recordings
+
+Abby Roche recorded audio
+
+Recorded Audio from Kate Roche - permission in Soundscape
+
+Recorded Audio from Tess Roth - permission in Soundscape
