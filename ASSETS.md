@@ -1,49 +1,41 @@
-Sounds from freesound.com
+#Sounds from freesound.com
 
-145787__bahaish__people-exiting-and-dispersing-from-movie-theatre - bahaish (licensed under the Creative Commons 0 License) https://freesound.org/people/bahaish/sounds/145787/
+[People Exiting and Dispersing from Movie Theatre.wav](https://freesound.org/people/bahaish/sounds/145787/) by [bahaish](https://freesound.org/people/bahaish/) via freesound, licensed under the [Creative Commons 0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+[Popping Popcorn](https://freesound.org/people/BiancaBothaPure/sounds/365763/) by [biancabothapure](https://freesound.org/people/BiancaBothaPure/) via freesound, licensed under the [Attribution Noncommercial License](https://creativecommons.org/licenses/by-nc/3.0/).
+
+[Walking on Carpet](https://freesound.org/people/ErocShadow/sounds/108029/) by [ErocShadow](https://freesound.org/people/ErocShadow/) via freesound, licensed under the [Sampling+ License](https://creativecommons.org/licenses/sampling+/1.0/).
+
+[Alien Sci Fi Ambient](https://freesound.org/people/onderwish/sounds/170989/) by [onderwish](https://freesound.org/people/onderwish/) via freesound, licensed under the [Creative Commons 0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+[Cinematic Rumble](https://freesound.org/people/DigitalDominic/sounds/175919/) by [DigitalDominic](https://freesound.org/people/DigitalDominic/) via freesound, licensed under the [Creative Commons 0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+[Lifetime Movie](https://freesound.org/people/AaronGNP/sounds/108177/) by [AaronGNP](https://freesound.org/people/AaronGNP/) via freesound, licensed under the [Attribution License](https://creativecommons.org/licenses/by/3.0/).
+
+[Person Sitting and Rising Soft Chair](https://freesound.org/people/sgcardinal/sounds/395082/) by [sgcardinal](https://freesound.org/people/sgcardinal/) via freesound, licensed under the [Creative Commons 0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+[Crowd Ambience Eating Popcron](https://freesound.org/people/IllusiaProductions/sounds/249940/) by [IllusiaProductions](https://freesound.org/people/IllusiaProductions/) via freesound, licensed under the [Attribution License](https://creativecommons.org/licenses/by/3.0/).
+
+[People Talking in Cinema Before Movie Starts](https://freesound.org/people/lisbon_story/sounds/506331/) by [lisbon_story](https://freesound.org/people/lisbon_story/) via freesound, licensed under the [Creative Commons 0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+[Dramatic Evil Theme Orchestra](https://freesound.org/people/humanoide9000/sounds/457070/) by [humanoide9000](https://freesound.org/people/humanoide9000/) via freesound, licensed under the [Attribution License](https://creativecommons.org/licenses/by/3.0/).
+
+[Open Door](https://freesound.org/people/martats/sounds/127855/) by [martats](https://freesound.org/people/martats/) via freesound, licensed under the [Attribution License](https://creativecommons.org/licenses/by/3.0/).
+
+[Shh](https://freesound.org/people/fallbackcrush/sounds/360590/) by [fallbackcrush](https://freesound.org/people/fallbackcrush/) via freesound, licensed under the [Attribution License](https://creativecommons.org/licenses/by/3.0/).
+
+[Woo-3](https://freesound.org/people/jayfrosting/sounds/333420/) by [jayfrosting](https://freesound.org/people/jayfrosting/) via freesound, licensed under the [Creative Commons 0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
-365763__biancabothapure__popping-popcorn - BiancaBothaPure (licensed under the Attribution Noncommercial License) https://freesound.org/people/BiancaBothaPure/sounds/365763/
+#Sound from YouTube
+
+[20th Century Fox theme / tune / opening / ident (2018 4K HDR)](https://www.youtube.com/watch?v=zVpUuW5xCxE) by [historic tv.](https://www.youtube.com/channel/UClbC2YEa_JHurgvNfjmADwA) adapted from [20th Century Fox](https://www.20thcenturystudios.com). Sound licensed under Fair Use License. The clip was shortened, edited/remixed, and used for class.
 
 
-108029__erocshadow__walking-on-carpet - ErocShadow (licensed under the Sampling+ License) https://freesound.org/people/ErocShadow/sounds/108029/
-
-
-170989__onderwish__alien-sci-fi-ambient - onderwish (licensed under the Creative Commons 0 License) https://freesound.org/people/onderwish/sounds/170989/
-
-
-175919__digitaldominic__cinematic-rumble - Digital Dominic (licensed under the Creative Commons 0 License) https://freesound.org/people/DigitalDominic/sounds/175919/
-
-
-108177__aarongnp__lifetime-movie - AaronGNP (licensed under the Attribution License) https://freesound.org/people/AaronGNP/sounds/108177/
-
-
-395082__sgcardinal__person-sitting-and-rising-soft-chair - sgcardinal (licensed under the Creative Commons 0 License) https://freesound.org/people/sgcardinal/sounds/395082/
-
-
-249940__illusiaproductions__crowd-ambience-eating-popcorn - IllusiaProductions (licensed under the Attribution License) https://freesound.org/people/IllusiaProductions/sounds/249940/
-
-
-506331__lisbon-story__people-talking-in-cinema-before-movie-starts - lisbon_story (licensed under the Creative Commons 0 License) https://freesound.org/people/lisbon_story/sounds/506331/
-
-395082__sgcardinal__person-sitting-and-rising-soft-chair - sgcardinal
-
-457070__humanoide9000__dramatic-evil-theme-orchestra - humanoide9000 (licensed under the Attribution License) https://freesound.org/people/humanoide9000/sounds/457070/
-
-127855__martats__open-door - martats (licensed under the Attribution license) https://freesound.org/people/martats/sounds/127855/
-
-360590__fallbackcrush__shh - fallbackcrush (licensed under the Attribution License) https://freesound.org/people/fallbackcrush/sounds/360590/
-
-333420__jayfrosting__woo-3 - jayfrosting )licensed under the Creative Commons 0 License) https://freesound.org/people/jayfrosting/sounds/333420/
-
-Sound from YouTube
-
-20th Century Fox Opening Sound - https://www.youtube.com/watch?v=zVpUuW5xCxE
-
-My Recordings
+#My Recordings
 
 Abby Roche recorded audio
 
-Recorded Audio from Kate Roche - permission in Soundscape
+Recorded Audio from Kate Roche - permission at the end of Soundscape
 
-Recorded Audio from Tess Roth - permission in Soundscape
+Recorded Audio from Tess Roth - permission at the end of Soundscape
